@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "64993f990c68ffd28073a9b1",
+    "nama_produk": "Minuman Soda",
+    "kategori": "Minuman",
+    "harga": 2500,
+    "persediaan": 200,
+    "deskripsi": "Ini deskripsi dari minuman soda",
+    "terjual": 0,
+    "rating": 4
+  },
+  {
+    "_id": "64993f990c68ffd28073a9b2",
+    "nama_produk": "Minuman Elektrolit",
+    "kategori": "Minuman",
+    "harga": 2500,
+    "persediaan": 200,
+    "deskripsi": "Ini deskripsi dari minuman elektrolit",
+    "terjual": 0,
+    "rating": 3
+  },
+  {
+    "_id": "64993f990c68ffd28073a9b3",
+    "nama_produk": "Minuman Mineral",
+    "kategori": "Minuman",
+    "harga": 2500,
+    "persediaan": 200,
+    "deskripsi": "Ini deskripsi dari minuman mineral",
+    "terjual": 0,
+    "rating": 5
+  }
+]
